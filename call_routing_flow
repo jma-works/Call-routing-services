@@ -1,0 +1,6 @@
+# Make and receive voice calls to your Twilio phone number
+
+#basic inbound and outbound call architectures
+A call comes in to your Twilio phone number from Party A
+Twilio asks your server how to handle the call
+Your server replies with instructions written in TwiML
